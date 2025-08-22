@@ -135,7 +135,7 @@ Join us at Car Rental and drive with confidence! `;
               </div>
               <div className={`flex-1 min-w-[200px] p-4 rounded-lg ${darkMode ? 'bg-gray-800' : 'bg-white'} shadow-md`}>
                 <h3 className={`text-xl font-semibold mb-2 ${darkMode ? 'text-yellow-400' : 'text-yellow-600'}`}>Our Vision</h3>
-                <p className="text-sm">To become the most trusted car rental service worldwide.</p>
+                <p className="text-sm">How To become the most trusted car rental service worldwide.</p>
               </div>
             </div>
           </div>
